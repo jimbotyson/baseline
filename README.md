@@ -13,4 +13,4 @@ ara Chattaway (Thomas Pocklington Trust), Darren Paskell(Thomas Pocklington Trus
   
 An online version of this document is hosted at:
 
-http://bit.ly/stemmbaseline![image](https://user-images.githubusercontent.com/1130589/234555455-f8baff80-fd05-415a-a9f5-bd831a93d417.png)
+http://bit.ly/stemmbaseline
