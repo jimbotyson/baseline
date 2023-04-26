@@ -8,9 +8,9 @@ You are free to use this document under terms identical to the MIT license (savi
 
 We ask that you acknowledge the original authors:
 
-**Tara Chattaway (Thomas Pocklington Trust), Darren Paskell(Thomas Pocklington Trust), George Rhodes(University of Westminster),
-  Jim Tyson(University College London (UCL)), Ben Watson(University College London (UCL))**.
+**Tara Chattaway (Thomas Pocklington Trust), Darren Paskell (Thomas Pocklington Trust), George Rhodes (University of Westminster),
+  Jim Tyson (University College London (UCL)), Ben Watson (University College London (UCL))**.
   
 An online version of this document is hosted at:
-
+ 
 http://bit.ly/stemmbaseline
