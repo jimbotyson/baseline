@@ -13,4 +13,4 @@ We ask that you acknowledge the original authors:
   
 An online version of this document is hosted at:
  
-http://bit.ly/stemmbaseline
+(makethingsaccessible.com)[http://bit.ly/stemmbaseline]
